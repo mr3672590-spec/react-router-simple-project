@@ -4,11 +4,11 @@ export default function Home() {
 
       <div className="bg-gray-100 py-20 text-center">
         <h1 className="text-5xl font-bold text-gray-800">
-          Welcome to My Shop
+          Welcome to My Shop!
         </h1>
 
         <p className="mt-4 text-xl text-gray-600">
-          Best products for you
+          Best products for you.
         </p>
 
         <button className="mt-6 px-6 py-3 bg-black hover:bg-blue-800 text-white rounded-lg ">
